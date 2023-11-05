@@ -1,0 +1,12 @@
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\bin\Debug\net7.0\NorthwindSqliteEntites.deps.json
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\bin\Debug\net7.0\NorthwindSqliteEntites.dll
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\bin\Debug\net7.0\NorthwindSqliteEntites.pdb
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\obj\Debug\net7.0\NorthwindSqliteEntites.csproj.AssemblyReference.cache
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\obj\Debug\net7.0\NorthwindSqliteEntites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\obj\Debug\net7.0\NorthwindSqliteEntites.csproj.CoreCompileInputs.cache
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\obj\Debug\net7.0\NorthwindSqliteEntites.dll
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\obj\Debug\net7.0\refint\NorthwindSqliteEntites.dll
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\obj\Debug\net7.0\NorthwindSqliteEntites.pdb
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\obj\Debug\net7.0\ref\NorthwindSqliteEntites.dll
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\bin\Debug\net7.0\NorthwindSqliteEntites.runtimeconfig.json
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindSqliteEntites\obj\Debug\net7.0\NorthwindSqliteEntites.genruntimeconfig.cache

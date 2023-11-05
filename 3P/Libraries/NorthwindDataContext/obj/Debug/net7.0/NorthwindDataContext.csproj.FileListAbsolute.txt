@@ -1,0 +1,17 @@
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\NorthwindDataContext.csproj.AssemblyReference.cache
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\NorthwindDataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\NorthwindDataContext.AssemblyInfoInputs.cache
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\NorthwindDataContext.AssemblyInfo.cs
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\NorthwindDataContext.csproj.CoreCompileInputs.cache
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\bin\Debug\net7.0\NorthwindDataContext.deps.json
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\bin\Debug\net7.0\NorthwindDataContext.runtimeconfig.json
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\bin\Debug\net7.0\NorthwindDataContext.dll
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\bin\Debug\net7.0\NorthwindDataContext.pdb
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\bin\Debug\net7.0\NorthwindSqliteEntites.dll
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\bin\Debug\net7.0\NorthwindSqliteEntites.pdb
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\NorthwindDataContext.csproj.CopyComplete
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\NorthwindDataContext.dll
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\refint\NorthwindDataContext.dll
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\NorthwindDataContext.pdb
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\NorthwindDataContext.genruntimeconfig.cache
+C:\Users\rocob\Documents\CETI\7mo\Avanzada1\Clases\Avanzada1\3P\Libraries\NorthwindDataContext\obj\Debug\net7.0\ref\NorthwindDataContext.dll
